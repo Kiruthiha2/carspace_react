@@ -1,0 +1,47 @@
+.response-container {
+    padding: 1.5rem;
+    background-color: #f0f4ff;
+    min-height: 100vh;
+  }
+  
+  .response-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .response-container th, .response-container td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .response-container th {
+    background-color: #e2e8f0;
+    text-align: left;
+  }
+  
+  .response-container td {
+    background-color: #fff;
+  }
+  
+  .response-container .search-bar {
+    padding: 20px;
+    border-radius: 6px;
+    border: 1px solid #8b2525;
+    width: 500px; /* Increased width */
+    font-size: 16px; /* Slightly larger text */
+}
+
+
+  
+  .response-container button {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .response-container button:hover {
+    background-color: #cc0000;
+  }
+  
