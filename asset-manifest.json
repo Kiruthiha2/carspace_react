@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/carspace_react/static/css/main.752b59b2.css",
-    "main.js": "/carspace_react/static/js/main.ce20ce5f.js",
+    "main.js": "/carspace_react/static/js/main.234af01d.js",
     "static/js/453.2c74882d.chunk.js": "/carspace_react/static/js/453.2c74882d.chunk.js",
     "index.html": "/carspace_react/index.html",
     "main.752b59b2.css.map": "/carspace_react/static/css/main.752b59b2.css.map",
-    "main.ce20ce5f.js.map": "/carspace_react/static/js/main.ce20ce5f.js.map",
+    "main.234af01d.js.map": "/carspace_react/static/js/main.234af01d.js.map",
     "453.2c74882d.chunk.js.map": "/carspace_react/static/js/453.2c74882d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.752b59b2.css",
-    "static/js/main.ce20ce5f.js"
+    "static/js/main.234af01d.js"
   ]
 }
